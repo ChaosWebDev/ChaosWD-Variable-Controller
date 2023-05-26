@@ -1,5 +1,5 @@
 {
-    "name": "chaoswd/variable-controller",
+    "name": "chaoswd/variable_controller",
     "description": "Locates and centralizes $_ variables.",
     "type": "library",
     "license": "BSD-3-Clause",
