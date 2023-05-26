@@ -13,13 +13,11 @@ VariableController::process($rootDirectory);
 
 File Types That Are Searched For:
 
-```
 <ul>
     <li>.env</li>
     <li>.ini</li>
     <li>.conf</li>
 </ul>
-```
 
 What It Does:<br>
 
