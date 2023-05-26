@@ -1,0 +1,19 @@
+{
+    "name": "chaoswd/variable-controller",
+    "description": "Locates and centralizes $_ variables.",
+    "type": "library",
+    "license": "BSD-3-Clause",
+    "authors": [
+        {
+            "name": "Jordan Gerber",
+            "email": "jordangerber@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "ChaosWD\\Controller\\": "src/"
+        }
+    }
+}
